@@ -1,0 +1,9 @@
+#Input file to calculate average flux for given date(s) 
+#RunNo   month  day  year duration 
+#Flag: Type 0 to calculate Z=1-28 (default) or;
+#type an integer between 28<Z<95 to calculate its flux as well. 
+0
+1 1 1 2000 30
+2 1 15 2000 30
+3 12 20 2014 25
+

@@ -1,0 +1,1 @@
+This folder contains sample input and output files. Results in output files are not garaunteed to be from the latest version, so numbers may be a little different. 

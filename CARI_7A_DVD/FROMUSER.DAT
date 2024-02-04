@@ -1,0 +1,18 @@
+ -1, 'Kp index'
+ -1.0000, 'Vertical Cutoff Rigidity'
+ -1.0000, 'Forbush scale factor'
+
+This file is for direct entry of data usually looked up from historical databases by the program.
+Use can considerably reduce run time by eliminating searches.
+A negative value indicates search of the database, positive indicates user decided value.
+FOR THIS VERSION, CARI-7A v4.00, ONLY THE FIRST 3 LINES ARE READ. 
+Expected line formats are:
+Real, A8 
+Real, A24 
+Real, A20 
+A space is recommended before the number on each line to assure proper reading across platforms.
+
+TO CHANGE OTHER OPTIONS SUCH AS THE INCIDENT CR (GCR or SPE) MODEL AND TRANSPORT OPTIONS 
+CHANGE THE CONTENTS OF THE FILE 'CARI.INI' (MAIN MENU OPTION 6, THEN OPTION 1).  
+
+ANY COMMENTS MAY BE PLACED HERE.

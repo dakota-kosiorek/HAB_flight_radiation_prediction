@@ -1,0 +1,99 @@
+2023/10/23
+ 0 
+ 7 
+ 1 
+ HAB.LOC
+ 
+ EXAMPLE.DEG
+ EXAMPLES.LOC
+ *.BIG
+ 
+ 
+ONLY THE FIRST 5 LINES ARE READ. COMMENTS MAY BE PLACED AFTER LINE 5
+Note: on some systems, as space is required before the middle three
+entries (lines 2-4). Also, the first 4 lines are ignored if the file
+on line 5 is a LOC style file and not BIG or DEG (flight data).
+
+First item is a 10 character string for DATE: yyyy/mm/dd
+   use 0000/00/00 to use dates from file
+   for monthly average use dd = 00
+   NOTE: include the zeros for months and days 
+         (use 1998/04/01, do not use 1998/4/1)   
+
+Second is integer HOUR
+   for daily average use HOUR = 0, 
+   This variable is ignored if dd = 00
+
+Third is integer for PARTICLE
+             CASE(0)        PARTICLE= TOTAL (see below)     
+             CASE(1)        PARTICLE= NEUTRONS   
+             CASE(2)        PARTICLE= PHOTONS    
+             CASE(3)        PARTICLE= ELECTRONS  
+             CASE(4)        PARTICLE= POSITRONS  
+             CASE(5)        PARTICLE= NEG MUONS  
+             CASE(6)        PARTICLE= POS MUONS  
+             CASE(7)        PARTICLE= PROTONS    
+             CASE(8)        PARTICLE= NEG PIONS  
+             CASE(9)        PARTICLE= POS PIONS  
+             CASE(10)       PARTICLE= DEUTERONS  
+             CASE(11)       PARTICLE= TRITONS    
+             CASE(12)       PARTICLE= HELIONS    
+             CASE(13)       PARTICLE= ALPHAS     
+             CASE(14)       PARTICLE= LITHIUM    
+             CASE(15)       PARTICLE= BERYLLIUM  
+             CASE(16)       PARTICLE= BORON      
+             CASE(17)       PARTICLE= CARBON     
+             CASE(18)       PARTICLE= NITROGEN   
+             CASE(19)       PARTICLE= OXYGEN     
+             CASE(20)       PARTICLE= FLUORINE   
+             CASE(21)       PARTICLE= NEON       
+             CASE(22)       PARTICLE= SODIUM     
+             CASE(23)       PARTICLE= MAGNESIUM  
+             CASE(24)       PARTICLE= ALUMINUM   
+             CASE(25)       PARTICLE= SILICON    
+             CASE(26)       PARTICLE= PHOSPHORUS 
+             CASE(27)       PARTICLE= SULPHUR    
+             CASE(28)       PARTICLE= CHLORINE   
+             CASE(29)       PARTICLE= ARGON      
+             CASE(30)       PARTICLE= POTASSIUM  
+             CASE(31)       PARTICLE= CALCIUM    
+             CASE(32)       PARTICLE= SCANDIUM   
+             CASE(33)       PARTICLE= TITANIUM   
+             CASE(34)       PARTICLE= VANADIUM   
+             CASE(35)       PARTICLE= CHROMIUM   
+             CASE(36)       PARTICLE= MANGANESE  
+             CASE(37)       PARTICLE= IRON       
+             
+Fourth item is integer TALLY
+             CASE(1) secondary particle fluence (if particle 
+                     is 'TOTAL', then output is total ion fluence,
+                     which excludes neutrons and photons)            
+             CASE(2) microSv, ICRP Pub. 103 EFFECTIVE DOSE 
+             CASE(3) microSv, ICRP Pub. 60 EFFECTIVE DOSE  
+             CASE(4) microSv, ICRU AMBIENT DOSE EQ. H(*10) 
+             CASE(5) microGy, AVE WHOLE-BODY ABSORBED DOSE 
+             CASE(6) microGy, Dose in 0.5 mm Si 
+             CASE(7) microGy, Dose in 0.3 mm Si 
+             CASE(8) Counts, Response rate NM64 neutron monitor BF-3 tube 
+             [NM-64 NOT VALID if HZE and alpha flux is significant, i.e., Alt > 60kft]             
+
+Fifth item is the name of the file to process: *.DEG or *.BIG or other.
+             Name length must be less than 30 characters with no spaces and a 
+             3-letter extension (e.g. EXAMPLE.BIG or MYPLACES.DAT):            
+               if the extension is DEG then the program will process the flight file like CARI-6M, 
+                    i.e., outputs will be in *.SUM (short form) and *.DAT (long form);
+               if BIG then the program will process the flight file like CARI-6, 
+                    i.e., output will be in *.OUT;
+               otherwise the program processes the file as a locations definition file
+                    i.e., output will be in *.ANS.
+             If the file name is *.DEG or *.BIG, then all files of that kind in this folder/directory
+                    will be used. This DOES NOT WORK for files in subfolders/subdirectories. 
+             
+Of course, bad data in any line could lead to either bad output or a crash, 
+             e.g., the fourth line must not be 0, else calculated doses will be NaN.                      
+                    
+TO CHANGE OTHER OPTIONS SUCH AS THE INCIDENT CR (GCR or SPE) MODEL AND TRANSPORT OPTIONS 
+CHANGE THE CONTENTS OF THE FILE 'CARI.INI' (MAIN MENU OPTION 6, THEN OPTION 1).
+
+TO FORCE CERTAIN PARAMETERS TO HAVE SPECIFIC VALUES, RATHER THAN USE HISTORICAL ONES, 
+CHANGE THE CONTENTS OF THE FILE 'FROMUSER.DAT' 

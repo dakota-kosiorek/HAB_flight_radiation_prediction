@@ -1,0 +1,222 @@
+ ======>  AIMSTEST.BIG                 
+ GCXO TO LEAS                  
+ Origin  TENERIFE, CANARY I (GCXO)
+ Destination  ASTURIAS, SPAIN (LEAS)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Effective dose 7.15 microsieverts   (0.00715 millisieverts) , ICRP Pub. 60  
+ --------------------------------------------------
+ GCXO TO LEAS                  
+ Origin  TENERIFE, CANARY I (GCXO)
+ Destination  ASTURIAS, SPAIN (LEAS)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Effective dose 1.60 microsieverts   (0.00160 millisieverts) , ICRP Pub. 60  
+ --------------------------------------------------
+ GCXO TO LEAS                  
+ Origin  TENERIFE, CANARY I (GCXO)
+ Destination  ASTURIAS, SPAIN (LEAS)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Effective dose  12.7 microsieverts   (0.01269 millisieverts) , ICRP Pub. 60  
+ --------------------------------------------------
+ ======>  PCAIRE.BIG                   
+ PC-1                          
+ Origin  PORT HARDY, BC, CANADA (CYZT)
+ Destination  LONDON, UNITED KINGDOM (EGVN)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  27.1 microsieverts   (0.02714 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-2                          
+ Origin  LONDON, UNITED KINGDOM (EGVN)
+ Destination  ZAGREB, CROATIA (LDZA)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 6.08 microsieverts   (0.00608 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-3                          
+ Origin  ZAGREB, CROATIA (LDZA)
+ Destination  TRENTON, ONT, CANADA (CYTR)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  32.2 microsieverts   (0.03221 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-4                          
+ Origin  OTTAWA, ONT, CANADA (CYOW)
+ Destination  IQALUIT, NWT, CANADA (CYFB)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 8.95 microsieverts   (0.00895 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-5                          
+ Origin  IQALUIT, NWT, CANADA (CYFB)
+ Destination  RESOLUTE BAY, CANADA (CYRB)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 4.04 microsieverts   (0.00404 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-6                          
+ Origin  RESOLUTE BAY, CANADA (CYRB)
+ Destination  IQALUIT, NWT, CANADA (CYFB)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 4.43 microsieverts   (0.00443 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-7                          
+ Origin  IQALUIT, NWT, CANADA (CYFB)
+ Destination  OTTAWA, ONT, CANADA (CYOW)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 9.16 microsieverts   (0.00916 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-8                          
+ Origin  TRENTON, ONT, CANADA (CYTR)
+ Destination  BAGOTVILLE, CANADA (CYBG)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 2.74 microsieverts   (0.00274 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-9                          
+ Origin  BAGOTVILLE, CANADA (CYBG)
+ Destination  COLD LAKE, ALTA, CANADA (CYOD)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  13.3 microsieverts   (0.01331 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-10                         
+ Origin  COLD LAKE, ALTA, CANADA (CYOD)
+ Destination  TRENTON, ONT, CANADA (CYTR)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  14.5 microsieverts   (0.01445 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-11                         
+ Origin  NEW YORK, NY (KJFK)
+ Destination  MIAMI, FL (KMIA)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 9.62 microsieverts   (0.00962 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-12.EZ                      
+ Origin  MIAMI, FL (KMIA)
+ Destination  BUENOS AIRES, ARGENTINA (SAEZ)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  17.9 microsieverts   (0.01794 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-13.EZ                      
+ Origin  BUENOS AIRES, ARGENTINA (SAEZ)
+ Destination  AUCKLAND, NEW ZEALAND (NZAA)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  50.9 microsieverts   (0.05088 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ ======> PCAIRE.BIG                    
+ PC-1                          
+ Origin  PORT HARDY, BC, CANADA (CYZT)
+ Destination  LONDON, UNITED KINGDOM (EGVN)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  27.1 microsieverts   (0.02714 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-2                          
+ Origin  LONDON, UNITED KINGDOM (EGVN)
+ Destination  ZAGREB, CROATIA (LDZA)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 6.08 microsieverts   (0.00608 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-3                          
+ Origin  ZAGREB, CROATIA (LDZA)
+ Destination  TRENTON, ONT, CANADA (CYTR)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  32.2 microsieverts   (0.03221 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-4                          
+ Origin  OTTAWA, ONT, CANADA (CYOW)
+ Destination  IQALUIT, NWT, CANADA (CYFB)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 8.95 microsieverts   (0.00895 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-5                          
+ Origin  IQALUIT, NWT, CANADA (CYFB)
+ Destination  RESOLUTE BAY, CANADA (CYRB)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 4.04 microsieverts   (0.00404 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-6                          
+ Origin  RESOLUTE BAY, CANADA (CYRB)
+ Destination  IQALUIT, NWT, CANADA (CYFB)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 4.43 microsieverts   (0.00443 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-7                          
+ Origin  IQALUIT, NWT, CANADA (CYFB)
+ Destination  OTTAWA, ONT, CANADA (CYOW)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 9.16 microsieverts   (0.00916 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-8                          
+ Origin  TRENTON, ONT, CANADA (CYTR)
+ Destination  BAGOTVILLE, CANADA (CYBG)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 2.74 microsieverts   (0.00274 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-9                          
+ Origin  BAGOTVILLE, CANADA (CYBG)
+ Destination  COLD LAKE, ALTA, CANADA (CYOD)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  13.3 microsieverts   (0.01331 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-10                         
+ Origin  COLD LAKE, ALTA, CANADA (CYOD)
+ Destination  TRENTON, ONT, CANADA (CYTR)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  14.5 microsieverts   (0.01445 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-11                         
+ Origin  NEW YORK, NY (KJFK)
+ Destination  MIAMI, FL (KMIA)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv. 9.62 microsieverts   (0.00962 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-12.EZ                      
+ Origin  MIAMI, FL (KMIA)
+ Destination  BUENOS AIRES, ARGENTINA (SAEZ)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  17.9 microsieverts   (0.01794 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ PC-13.EZ                      
+ Origin  BUENOS AIRES, ARGENTINA (SAEZ)
+ Destination  AUCKLAND, NEW ZEALAND (NZAA)
+ Date 0000/00/00
+  Heliocentric Potential332 MV
+ Am. Dose Eqiv.  50.9 microsieverts   (0.05088 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ ======> PCAIRSHT.BIG                  
+ PC-12b.EZ                     
+ Origin  MIAMI, FL (KMIA)
+ Destination  BUENOS AIRES, ARGENTINA (SAEZ)
+ Date 0000/00/00
+Heliocentric Potential 332 MV
+ Am. Dose Eqiv.  17.9 microsieverts   (0.01794 millisieverts) , ICRU  H(*10)  
+ --------------------------------------------------
+ ======> EXAMPLE.BIG                   
+ FL-9.EZ                       
+ Origin  NEW YORK, NY (KJFK)
+ Destination  SAN JUAN, PUERTO RICO (TJSJ)
+ Date 0000/00/00
+ Heliocentric Potential 289 MV
+ Effective dose 9.26 microsieverts   (0.00926 millisieverts) , ICRP Pub. 103 
+ --------------------------------------------------

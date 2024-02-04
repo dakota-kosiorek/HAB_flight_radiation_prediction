@@ -1,0 +1,51 @@
+ ****************************************************
+ ****************************************************
+ Title: Badhwar-O'Neill (BON) NASA Galactic Cosmic Radiation (GCR) flux calculat
+ ion software (2014)
+ Author(s): P.M. O'Neill and S. Golge
+ Description: The code calculates the differential flux of the GCR from Z=1-28. 
+ Interpolation is done for the flux of an atom beyond 28 up to 94.
+  
+ Release date: 04/01/2015
+ ****************************************************
+ ****************************************************
+  
+  LIS INPUT FILE: IN\lis_bon14.dat
+ 
+  ***** LIS INITIALIZATION DONE *****
+Processing average flux for:
+Run No:    1
+Start date: 11/ 1/2023
+Duration:  30 days
+ *****************************************
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+  USING LIS SINCE PHI IS ZERO   1.9040481E-38
+ ******************************
+ ***FINISHED GCR CALCULATION***
+ ******************************

@@ -1,0 +1,13 @@
+ 0.
+ 0.
+ 0.
+END OF DATA
+To use this file there must be a line in the variable list in CARI.INI that reads
+VEHICLE   = YES
+Reading this file must be indicated in CARI.INI or it will be ignored (NO! is the default). 
+NOTE: This file allows the user to define structural shielding for the vehicle
+1st line is Al alloy thickness in units of g/cm**2
+2nd line is HDPE (polyethylene, i.e., CH2) thickness in units of g/cm**2
+3rd line is added dry air thickness in units of g/cm**2, useful for testing.
+The net effect is the thickness weighted average effect of the three shields.  
+

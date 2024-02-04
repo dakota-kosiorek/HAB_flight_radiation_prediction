@@ -1,0 +1,13 @@
+Dear Users,
+Unfortunately, I do not have permission to distribute the all the source code that is part of CARI-7A, so a precompiled version is all I can freely distribute. 
+
+Use of the BO'14 GCR model must be scripted, I never received source code to integrate and the executable from the developers for linux did not run on my distribution. The Windows DOS script should used as a guide. Hopefully you will have better luck.
+
+During COVID-19 telework my access to linux is limited so development is a little behind the Windows version. The 2 features new in 4.1.1, 9x speed-up for flight doses and multiple-file analysis in command line, are not yet in the linux version. There are no changes to the calculations so results will be the same.
+
+Sorry for any inconvenience this may cause you.
+
+Kyle Copeland, Ph.D., Team Leader
+Aerospace Medical Research Division, Numerical Sciences Team, Mail Route AAM-631
+FAA Civil Aerospace Medical Institute
+Oklahoma City, OK, USA 73169
